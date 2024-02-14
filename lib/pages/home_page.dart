@@ -5,6 +5,8 @@ import 'package:ai_project/pages/image_uploade_page.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
+  static const String id = "home_page";
+
   const HomePage({super.key});
 
   @override
